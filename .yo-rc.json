@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.airmate.mday",
+    "packageFolder": "io/airmate/mday",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.2",
+    "jwtSecretKey": "NmE5YTBiMmE5ZjMwZTU4Mzk0NGI3YmMwNjVmZWUzMzc2MWEwZWQzYWFlYTZmMjBiNjZiMTI1ZDM1YzEyYjIxMjgwYTU4OWRiMzViNzA1ZGVkNGNhNTY2ODQ1ZWQzNDRkNGNkNDkyNmYyZmZhZGJlMTE2YmRkYjUxYjQ3NWVkNDI="
+  },
+  "git-provider": "GitHub",
+  "git-company": "guessmyfuture",
+  "repository-name": "jhipster-sample-application"
+}
